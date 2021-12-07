@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">NotasETarefasAT</string>
+    <string name="app_name">Estudantes Infnet</string>
+    <string name="title_activity_detail">Ficha do aluno</string>
 </resources>
