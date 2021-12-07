@@ -84,7 +84,7 @@ class DetailActivity : BaseActivity<ActivityDetailBinding, DetailViewModel>() {
                     viewModel.updateData(student.id, studentName.toString(), studentNim.toString(), gender)
                     Toast.makeText(this, "Dados atualizados com sucesso $studentName ", Toast.LENGTH_LONG).show()
                 }
-                dialogBuilder.setNegativeButton("Cancelado") { _: DialogInterface, _: Int ->
+                dialogBuilder.setNegativeButton("Cancelar") { _: DialogInterface, _: Int ->
                 }
                 dialogBuilder.show()
             }

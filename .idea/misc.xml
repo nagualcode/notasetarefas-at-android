@@ -20,7 +20,7 @@
         <entry key="app/src/main/res/layout-land/task_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_detail.xml" value="0.3340606588778456" />
         <entry key="app/src/main/res/layout/activity_first.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
         <entry key="app/src/main/res/layout/activity_note.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_view_binding.xml" value="0.1" />
@@ -36,14 +36,18 @@
         <entry key="app/src/main/res/layout/note_card.xml" value="0.1" />
         <entry key="app/src/main/res/layout/notes.xml" value="0.1" />
         <entry key="app/src/main/res/layout/settings.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/student_item_view.xml" value="0.1" />
         <entry key="app/src/main/res/layout/task.xml" value="0.1" />
         <entry key="app/src/main/res/layout/task_card.xml" value="0.1" />
         <entry key="app/src/main/res/layout/task_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/task_event.xml" value="0.1" />
         <entry key="app/src/main/res/layout/write_notes.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottomnav.xml" value="0.12685185185185185" />
+        <entry key="app/src/main/res/menu/menu_detail.xml" value="0.12685185185185185" />
       </map>
     </option>
   </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

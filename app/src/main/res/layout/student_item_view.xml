@@ -55,7 +55,7 @@
                     android:textSize="18sp"
                     android:textStyle="bold"
                     android:text="@{student.name}"
-                    tools:text="Nama : Muh. Rahmatullah"/>
+                    tools:text="Nome : Frederico "/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -63,14 +63,14 @@
                     android:id="@+id/item_nim"
                     android:layout_marginTop="4dp"
                     android:text="@{student.nim}"
-                    tools:text="Sobrenome : 12345675"/>
+                    tools:text="Sobrenome : Flores"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:id="@+id/item_gender"
                     android:layout_marginTop="4dp"
                     android:text="@{student.gender}"
-                    tools:text="Jenis Kelamin : Laki-laki"/>
+                    tools:text="Masculino"/>
             </LinearLayout>
         </RelativeLayout>
     </androidx.cardview.widget.CardView>
